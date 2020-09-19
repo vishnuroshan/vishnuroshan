@@ -1,5 +1,5 @@
 ### Hi there 👋
-Glad you found me here!. This is my github profile
+I am Glad you found me here!. This is my github profile
 
 This is vishnu, I think learning is never ending.
 
