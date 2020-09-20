@@ -1,12 +1,11 @@
 ### Hi there 👋
-I am Glad you found me here!. This is my github profile
+I am glad you found me here!. Welcome to my Github profile.
 
-This is vishnu, I think learning is never ending.
+My name is Vishnu. I am a Software developer interested in web technology.
 
 - 🔭 I’m currently working on a simple real-time cross-platform chat application in javascript
 - 🌱 I’m currently exploring golang
 - 👯 I love to work on anything javascript!
-- 🤔 I’m looking for help with html/css
-- 💬 I love discussing about database design, software design and architecture
-- 📫 You can reach me in: [E-Mail](mailto:vishnuroshan4@gmail.com), [LinkedIn](https://www.linkedin.com/in/vishnuroshan94/)
-- ⚡ Fun fact: I consider video games as a form of art
+- 🤔 I’m looking for help with HTML/CSS
+- 💬 I love discussing database design, software design and architecture
+- 📫 You can reach me in: [email](mailto:vishnuroshan4@gmail.com) and [LinkedIn](https://www.linkedin.com/in/vishnuroshan94/)
