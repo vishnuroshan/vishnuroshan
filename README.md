@@ -1,14 +1,12 @@
 ### Hi there 👋
 I am glad you found me here!. Welcome to my Github profile.
 
-My name is Vishnu Roshan. I am a Software developer interested in web technology.
+I am Vishnu Roshan, a software engineer with 2 years of experiance.
 
-- 🎯 I’m currently focused on building a simple real-time cross-platform chat application in javascript
+- 🎯 currently learning react and brushing up skills in frontend
 
-- 🗺️ I want to explore golang in near future!
+- 🗺️ want to learn golang, rust and scala before 2021
 
-- 🖥️ love to work on anything javascript!
+- ❤️ in love with javascript
 
-- 💬 I love discussing anything about tech!
-
-- 📫 You can reach me in: [email](mailto:vishnuroshan4@gmail.com) and [LinkedIn](https://www.linkedin.com/in/vishnuroshan94/)
+- 📫 You can reach me through my [email](mailto:vishnuroshan4@gmail.com) and I am very active in [LinkedIn](https://www.linkedin.com/in/vishnuroshan94/)
