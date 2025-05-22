@@ -1,11 +1,5 @@
-### Hi there 👋
+# Welcome to My GitHub Profile
 
-I am glad you found me here!. Welcome to my Github profile.
+Hi, I'm Vishnu Roshan, a software engineer with over 6 years of experience in web technologies. I enjoy solving problems, writing clean code, and building impactful software.
 
-I am Vishnu Roshan, a software engineer with 6+ years of experiance in web technology.
-
-
-[My profile](https://rxresu.me/vishnuroshan/vishnu-roshan) in case you are interested.
-
-
-📫 You can reach me through my [email](mailto:vishnuroshan4@gmail.com) and I am also active in [LinkedIn](https://www.linkedin.com/in/vishnuroshan94/)
+Feel free to explore my repositories or [connect with me](mailto:vishnuroshan4@gmail.com) if you'd like to collaborate.
